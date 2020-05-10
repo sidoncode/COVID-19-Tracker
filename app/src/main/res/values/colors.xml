@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#090a0a</color> // black
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="TotalCasesConfirmed">#ff2600</color> // red
+    <color name="Totalactive">#00e1ff</color> // cyan
+    <color name="Totalrecovered">#00ff37</color>
+
+</resources>
